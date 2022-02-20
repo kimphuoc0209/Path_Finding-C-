@@ -1,0 +1,7 @@
+C:\Users\dell\AppData\Local\Temporary Projects\Path Finding\bin\Release\Path Finding.exe
+C:\Users\dell\AppData\Local\Temporary Projects\Path Finding\bin\Release\Path Finding.pdb
+C:\Users\dell\AppData\Local\Temporary Projects\Path Finding\obj\x86\Release\Path_Finding.PathFinding.resources
+C:\Users\dell\AppData\Local\Temporary Projects\Path Finding\obj\x86\Release\Path_Finding.Properties.Resources.resources
+C:\Users\dell\AppData\Local\Temporary Projects\Path Finding\obj\x86\Release\Path Finding.csproj.GenerateResource.Cache
+C:\Users\dell\AppData\Local\Temporary Projects\Path Finding\obj\x86\Release\Path Finding.exe
+C:\Users\dell\AppData\Local\Temporary Projects\Path Finding\obj\x86\Release\Path Finding.pdb
